@@ -1,21 +1,20 @@
-# Tranquil Money Manager — App de Finanças Pessoais
+## Imagens do projeto
 
-Projeto desenvolvido para o desafio de **Vibe Coding da DIO**, utilizando o **Lovable** e inteligência artificial para transformar uma ideia em uma aplicação de controle financeiro pessoal.
+### Dashboard
 
-> **Status:** projeto concluído para apresentação no desafio de Vibe Coding da DIO.
+![Dashboard do Tranquil Money Manager](dashboard-final.jpg)
 
-## Sobre o projeto
+### Carteiras
 
-O **Tranquil Money Manager** é um aplicativo de finanças pessoais criado para ajudar pessoas a entenderem melhor como utilizam o próprio dinheiro. Nele, o usuário pode registrar receitas e despesas, acompanhar o saldo disponível, consultar movimentações recentes e visualizar a distribuição dos gastos por categoria.
+![Página de carteiras](carteiras.jpg)
 
-A proposta é oferecer uma experiência simples, amigável e visual, adequada inclusive para quem nunca utilizou uma ferramenta de controle financeiro.
+### Cadastro de transação
 
-## Resultado alcançado
+![Cadastro de nova transação](cadastro-transacao.jpg)
 
-O sistema de carteiras foi concluído: agora é possível criar, editar e excluir carteiras, definir o destino das movimentações ao excluir uma delas, selecionar obrigatoriamente uma carteira nas transações, realizar transferências entre carteiras e visualizar o patrimônio total no dashboard e na página **“Carteiras”**.
+### Gráfico de despesas
 
-O aplicativo também permite editar o salário mensal, registrar receitas e despesas e acompanhar os resultados por meio de cartões, histórico, filtros e gráficos.
-
+![Gráfico de despesas por categoria](grafico-despesas.jpg)
 ## Funcionalidades
 
 - Dashboard com saldo atual, total de receitas e total de despesas;
