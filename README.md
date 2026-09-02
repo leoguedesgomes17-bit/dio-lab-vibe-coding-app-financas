@@ -1,20 +1,5 @@
-## Imagens do projeto
 
-### Dashboard
 
-![Dashboard do Tranquil Money Manager](dashboard-final.jpg)
-
-### Carteiras
-
-![Página de carteiras](carteiras.jpg)
-
-### Cadastro de transação
-
-![Cadastro de nova transação](cadastro-transacao.jpg)
-
-### Gráfico de despesas
-
-![Gráfico de despesas por categoria](grafico-despesas.jpg)
 ## Funcionalidades
 
 - Dashboard com saldo atual, total de receitas e total de despesas;
