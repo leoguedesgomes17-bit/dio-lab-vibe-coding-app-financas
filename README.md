@@ -415,3 +415,12 @@ Desenvolvido por Leonardo Guedes Gomes como parte do desafio da **DIO**.
 ## Aviso
 
 Este projeto tem finalidade educacional. Os dados exibidos são fictícios e o aplicativo não oferece aconselhamento financeiro.
+
+## Interação com o Lovable
+
+<img width="1366" height="768" alt="dashboard-final jpg" src="https://github.com/user-attachments/assets/496fbbd5-b596-44d1-8abe-d7bc14fd30d1" />
+<img width="1366" height="768" alt="grafico-despesas jpg" src="https://github.com/user-attachments/assets/42f951ca-f50c-4cd4-a32e-03921054c52c" />
+<img width="1366" height="768" alt="histórico despesas" src="https://github.com/user-attachments/assets/edec04ca-4cef-4b8e-b638-ac596fff4ff5" />
+<img width="1366" height="768" alt="cadastro-transacao jpg" src="https://github.com/user-attachments/assets/986f9131-4bdc-488e-81dc-cdf0dcddfad7" />
+<img width="1366" height="768" alt="carteiras jpg" src="https://github.com/user-attachments/assets/35d198d3-8bbf-48d6-af1c-dd2e14788c6f" />
+
