@@ -1,6 +1,13 @@
+# Tranquil Money Manager
 
+Aplicativo de organização de finanças pessoais desenvolvido com o Lovable para o desafio de Vibe Coding da DIO.
 
-## Funcionalidades
+O Tranquil Money Manager permite cadastrar receitas e despesas, editar o salário mensal, organizar o dinheiro em diferentes carteiras, realizar transferências e acompanhar o patrimônio por meio de gráficos e históricos.
+
+- **Aplicativo:** [Acessar o Tranquil Money Manager](https://tranquil-money-manager.lovable.app)
+- **Repositório:** [Ver projeto no GitHub](https://github.com/leoguedesgomes17-bit/dio-lab-vibe-coding-app-financas)
+
+## Funcionalidades planejadas no PRD
 
 - Dashboard com saldo atual, total de receitas e total de despesas;
 - Cadastro de receitas e despesas;
@@ -336,24 +343,6 @@ Entregue um protótipo funcional, responsivo e visualmente consistente. O usuár
 
 O projeto foi construído por meio de conversas iterativas com a inteligência artificial. Primeiro, descrevi o objetivo e as funcionalidades principais. Depois, analisei o resultado, testei os fluxos e solicitei ajustes mais específicos.
 
-### Interação 1 — Criação inicial
-
-Inclua aqui um print mostrando o envio do prompt principal ao Lovable.
-
-![Prompt inicial enviado ao Lovable](docs/images/interacao-01.png)
-
-### Interação 2 — Testes e melhorias
-
-Inclua aqui um print de uma solicitação de melhoria, como um ajuste no formulário, no gráfico ou na versão para celular.
-
-![Solicitação de melhoria](docs/images/interacao-02.png)
-
-### Resultado final
-
-Inclua aqui um print da tela principal do aplicativo pronto.
-
-![Dashboard final do Tranquil Money Manager](docs/images/dashboard-final.png)
-
 ## Reflexão sobre o processo
 
 ### O que funcionou bem?
@@ -401,11 +390,18 @@ Desenvolvido por Leonardo Guedes Gomes como parte do desafio da **DIO**.
 
 Este projeto tem finalidade educacional. Os dados exibidos são fictícios e o aplicativo não oferece aconselhamento financeiro.
 
-## Interação com o Lovable
+## Telas do aplicativo
 
 <img width="1366" height="768" alt="dashboard-final jpg" src="https://github.com/user-attachments/assets/496fbbd5-b596-44d1-8abe-d7bc14fd30d1" />
 <img width="1366" height="768" alt="grafico-despesas jpg" src="https://github.com/user-attachments/assets/42f951ca-f50c-4cd4-a32e-03921054c52c" />
 <img width="1366" height="768" alt="histórico despesas" src="https://github.com/user-attachments/assets/edec04ca-4cef-4b8e-b638-ac596fff4ff5" />
 <img width="1366" height="768" alt="cadastro-transacao jpg" src="https://github.com/user-attachments/assets/986f9131-4bdc-488e-81dc-cdf0dcddfad7" />
 <img width="1366" height="768" alt="carteiras jpg" src="https://github.com/user-attachments/assets/35d198d3-8bbf-48d6-af1c-dd2e14788c6f" />
+
+## Interação com a IA
+
+Durante o desenvolvimento, solicitei ao Lovable que revisasse o formulário de transações, validasse os campos e garantisse a atualização automática dos valores do dashboard.
+<img width="1366" height="768" alt="interação" src="https://github.com/user-attachments/assets/40eb5df3-3878-4ded-a036-ab27ae2db9c3" />
+
+
 
